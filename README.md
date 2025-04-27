@@ -1,4 +1,4 @@
-[![](https://github.com/toshikdkar9/toshikdkar9/blob/main/name.gif)]<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/toshikdkar9/toshikdkar9/blob/main/name_github.gif)]<!-- If you want the template for my gif, email me! -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=toshikdkar9&label=Profile%20views&color=0e75b6&style=flat" alt="toshikdkar9" />
 </p>
